@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me llamo Luis Eduardo Bahena Castillo ✝       
+Me llamo Luis Eduardo Bahena Castillo ✝️💜     
 
 Soy 🇲🇽
 
@@ -12,6 +12,6 @@ Tengo 21 años, nací el 1-Junio-2003 ♊
 
 Mis lenguajes de Programación: Java, JavaScript, Python, R, SQL, C++, Kotlin y PHP 🖥️     
 
-Te quiero Mucho The Weeknd 🎧    
+Te quiero mucho The Weeknd 🎧✝️💜    
 
 Te quiero mucho Chivas 🇲🇽, Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 y Real Valladolid 🇪🇸
