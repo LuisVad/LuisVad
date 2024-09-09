@@ -15,3 +15,5 @@ Mis lenguajes de Programación: Java, JavaScript, Python, R, SQL, C++, Kotlin y 
 Te quiero mucho The Weeknd 🎧✝️💜    
 
 Te quiero mucho Chivas 🇲🇽, Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 y Real Valladolid 🇪🇸
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVad&theme=gruvbox&layout=donut)](https://github.com/LuisVad/github-readme-stats)
