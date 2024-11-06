@@ -10,9 +10,9 @@ Tengo 21 años, Nací el 1-Junio-2003 ♊
   - Soy Técnico Superior Universitario en Desarrollo de Software Multiplataforma de la Universidad Tecnológica de Emiliano Zapata
   - Estudio actualmente la Ingeniería en Desarrollo y Gestión del Software 
 
-Lenguajes de Programación: Java, JavaScript, Python, R, SQL, NoSQL, C++, Kotlin y PHP 🖥️
+Lenguajes de Programación: Java, JavaScript, Python, R, SQL, NoSQL, C++, Kotlin, PHP y Dart 🖥️
 
-Frameworks: React JS/Native, NodeJS, VueJS, Spring y Laravel
+Frameworks: React JS/Native, NodeJS, VueJS, Spring, Laravel y Flutter
 
 Te quiero mucho The Weeknd 🎧✝️💜, Chivas 🇲🇽, Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 y Real Valladolid 🇪🇸
 
